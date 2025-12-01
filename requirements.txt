@@ -1,0 +1,11 @@
+# Deep Dive Analyst - Sequential Multi-Agent System
+# Python Requirements
+
+# Core Google Cloud AI Platform
+google-cloud-aiplatform>=1.38.0
+
+# Additional utilities
+python-dotenv>=1.0.0
+
+# Optional: For enhanced output formatting
+rich>=13.0.0
